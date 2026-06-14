@@ -75,3 +75,32 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 UpgradeLog.htm
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Rider user settings
+*.DotSettings.user
+*.DotSettings
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# RiderLink
+Plugins/Developer/RiderLink/
